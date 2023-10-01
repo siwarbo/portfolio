@@ -1055,4 +1055,7 @@ textarea.contact-input {
   .copyright,
   .footer-list { margin-inline: 0; }
 
+  .portfolio-list .card-content {
+    color: red;
+  }
 }
